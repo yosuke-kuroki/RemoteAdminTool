@@ -13,7 +13,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 
 1. Download
 ```
-git clone https://github.com/KylerCondran/RemoteAdminTool.git
+git clone https://github.com/yosuke-kuroki/RemoteAdminTool.git
 ```
 2. Run The Server On Remote Computer
    - Make Sure It Is Accessible With Port Forwarding And Firewalls
