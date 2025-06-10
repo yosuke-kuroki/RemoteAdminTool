@@ -4,11 +4,6 @@ Remote Admin Tool is a Command Line Interface Tool for administrating a network 
 
 <img src="https://repository-images.githubusercontent.com/791082094/8c71b6f8-d4b7-482b-9734-a80d77f09ded" title="Remote Admin Tool">
 
-<p align="center">
-  <a href="https://github.com/KylerCondran/RemoteAdminTool/issues/new">Report bug</a>
-  ·
-  <a href="https://github.com/KylerCondran/RemoteAdminTool/issues/new">Request feature</a>
-</p>
 
 ## Disclaimer
 
@@ -63,7 +58,3 @@ connect [IPAddress]:[Port]
 ## Contributing
 See our contributing guide at [CONTRIBUTING.md](../master/CONTRIBUTING.md).
 
-## Copyright and License
->The [MIT License](https://github.com/KylerCondran/RemoteAdminTool/blob/master/LICENSE)
->
->Copyright (c) 2024 Kyler Condran
